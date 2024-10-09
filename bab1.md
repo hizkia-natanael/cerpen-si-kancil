@@ -1,0 +1,3 @@
+# Bab 1: Si Kancil yang Cerdik
+
+Di sebuah hutan yang luas dan hijau, hiduplah seekor kancil yang terkenal cerdik. Namanya Si Kancil. Ia suka berpetualang dan selalu berhasil lolos dari masalah dengan kecerdasannya. Meskipun kecil, Si Kancil tidak pernah takut pada binatang lain yang lebih besar. Semua binatang di hutan mengenal kecerdikan Si Kancil, dan mereka selalu penasaran dengan petualangan-petualangannya.
