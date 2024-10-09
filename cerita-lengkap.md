@@ -1,0 +1,19 @@
+# Petualangan Si Kancil
+
+## Bab 1: Si Kancil yang Cerdik
+Di sebuah hutan yang luas dan hijau, hiduplah seekor kancil yang terkenal cerdik...
+
+## Bab 2: Kancil Keliling Hutan
+Pada suatu hari, Si Kancil berjalan-jalan di hutan yang sejuk...
+
+## Bab 3: Kancil Menyeberangi Sungai
+Saat melanjutkan perjalanan, Si Kancil sampai di tepi sungai yang lebar dan dalam...
+
+## Bab 4: Kancil Mampir ke Kebun
+Setelah menyeberangi sungai, Si Kancil sampai di sebuah kebun yang penuh dengan sayur-sayuran segar...
+
+## Bab 5: Kancil Bertemu Kura-kura
+Di tengah petualangannya, Si Kancil bertemu dengan seekor kura-kura yang sedang berjalan lambat...
+
+## Bab 6: Akhir Petualangan Si Kancil
+Setelah melewati banyak petualangan, Si Kancil kembali ke rumahnya di hutan...
