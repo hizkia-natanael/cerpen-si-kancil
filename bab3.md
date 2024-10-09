@@ -1,0 +1,3 @@
+# Bab 3: Kancil Menyeberangi Sungai
+
+Saat melanjutkan perjalanan, Si Kancil sampai di tepi sungai yang lebar dan dalam. Ia ingin menyeberang, tapi tidak tahu bagaimana caranya. Di tengah kebingungan, ia melihat sekelompok buaya yang sedang berjemur di tepi sungai. Dengan cepat, ide cerdik muncul di benak Si Kancil. "Hai, Buaya! Aku punya tantangan buat kalian. Siapa yang bisa berbaris dari tepi sungai ini ke seberang, pasti lebih kuat daripada harimau!" kata Si Kancil. Buaya-buaya pun percaya, dan Si Kancil menyeberang di atas punggung mereka.
